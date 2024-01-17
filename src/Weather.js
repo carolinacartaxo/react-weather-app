@@ -16,7 +16,7 @@ export default function Weather() {
       visible={true}
       height="80"
       width="80"
-      color="#4fa94d"
+      color="#FF7F00"
       ariaLabel="puff-loading"
       wrapperStyle={{}}
       wrapperClass=""
