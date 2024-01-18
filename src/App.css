@@ -3,6 +3,9 @@
   margin: 30px auto;
 }
 
+.App a {
+  text-decoration: none;
+}
 .App body {
   font-family: arial, sans-serif;
 }
